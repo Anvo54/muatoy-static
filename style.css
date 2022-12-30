@@ -6,7 +6,7 @@ body {
 			rgba(23, 10, 51, 0.6) 5.58%,
 			rgba(0, 0, 0, 0.8) 94.42%
 		),
-		url('/bg.png');
+		url('bg.png');
 	font-family: 'Montserrat';
 }
 
