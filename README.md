@@ -1,0 +1,1 @@
+# muatoy-static
