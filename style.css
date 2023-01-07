@@ -10,8 +10,8 @@ body {
 	font-family: 'Montserrat';
 }
 
-.logo-header {
-	width: 100%;
+.logo-img {
+	width: 485.16px;
 }
 
 .box-1 {
@@ -111,3 +111,7 @@ a {
 	text-decoration: none;
 }
 
+.social-media {
+	width: 40px;
+	height: 40px;
+}
